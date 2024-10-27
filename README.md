@@ -1,5 +1,7 @@
 # MathPix: AI-Powered Mathematical Expression Solver
 
+![Demo](assets/demo.png)
+
 ## Inspiration
 
 Our inspiration for MathPix came from a common frustration in the academic and scientific community - the tedious process of converting handwritten or image-based mathematical expressions into solvable digital format. Students and researchers often struggle with:
