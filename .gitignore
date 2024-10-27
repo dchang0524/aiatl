@@ -1,3 +1,4 @@
 key.txt
 .pycache
 .venv
+*.secret
