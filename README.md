@@ -1,5 +1,5 @@
 # MathPix: AI-Powered Mathematical Expression Solver
-
+https://devpost.com/software/mathpix
 ![Demo](assets/demo.png)
 
 ## Inspiration
